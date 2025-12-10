@@ -1,0 +1,14 @@
+charts/
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.log
+

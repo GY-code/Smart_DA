@@ -1,6 +1,18 @@
-# 智能数据分析平台 - Smart DA
+# 固定收益类机构成交数据智能分析平台 - Smart DA
 
 一个基于前端的数据分析看板，支持 Excel 数据导入、可视化分析和 AI 智能图表生成。项目包含前端 Web 应用和后端 API 服务两部分。
+
+## 项目演示
+
+<video src="demo/demo-video.mp4" width="600" controls="controls">
+    演示视频
+</video>
+
+## 项目截图
+
+![数据加载与看板界面](demo/demo-data.png)
+
+![AI图表智能生成](demo/demo-ai.png)
 
 ## 项目结构
 

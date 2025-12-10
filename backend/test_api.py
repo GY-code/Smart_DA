@@ -64,3 +64,4 @@ def test_generate_chart():
 if __name__ == "__main__":
     test_generate_chart()
 
+
